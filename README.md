@@ -1,4 +1,6 @@
-# INSAID-Capstone-Project
+
+In this assignment, you are going to study the demographics of a user (gender and age) based on their app download and usage behaviors. 
+The Data is collected from mobile apps that use InsaidTelecom services. Full recognition and consent from individual user of those apps have been obtained, and appropriate anonymization have been performed to protect privacy. Due to confidentiality, we won't provide details on how the gender and age data was obtained. # INSAID-Capstone-Project
 Capstone Project on Data Analytics
 It's always wonderful to see services customized to your needs. Businesses try to understand your behavior and adjust their offerings so as to ensure you feel attached to their services.
 
